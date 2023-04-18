@@ -10,13 +10,6 @@
 </p>
 
 <div align="center">
-  <div align="center">  
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rayssa2301&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats"/> 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssa2301&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
-
-</div>
 
   
   <a href="https://www.linkedin.com/in/rayssa-carvalho-03aa31140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
